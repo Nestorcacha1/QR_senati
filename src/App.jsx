@@ -7,7 +7,7 @@ function App() {
 			<h1>QR PARA REGISTRAR INGRESO Y SALIDA DE LAPTOPS DE ESTUDIANTES</h1>
 			<div className='qr-container'>
 				<QRCode
-					value='https://m4f6305f-3000.brs.devtunnels.ms/'
+					value='https://www.upn.edu.pe/'
 					size={400}
 					fgColor='white'
 					bgColor='black'
